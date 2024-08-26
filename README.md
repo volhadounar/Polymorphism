@@ -36,6 +36,7 @@ Related entities can have similar behavior, they can use common code, also they 
 
 
 We can divide polymorphism into 2 groups:
+
 	1) Ad-hoc 
  
 
