@@ -100,4 +100,4 @@ https://en.wikipedia.org/wiki/Polymorphism_(computer_science)
 
 https://realpython.com/python-protocol/
 
-
+https://levelup.gitconnected.com/hidden-power-of-polymorphism-in-python-c9e2539c1633
