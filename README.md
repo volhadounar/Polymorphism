@@ -92,11 +92,12 @@ Duck typing vs/with Type Hints
 
 References:
 
-	• https://realpython.com/duck-typing-python/#:~:text=Duck%20typing%20is%20a%20type,adhere%20to%20some%20common%20interface.
+[https://realpython.com/duck-typing-python/#:~:text=Duck%20typing%20is%20a%20type,adhere%20to%20some%20common%20interface.](https://realpython.com/duck-typing-python/#:~:text=Duck%20typing%20is%20a%20type,adhere%20to%20some%20common%20interface.)
 
-	• https://en.wikipedia.org/wiki/Type_system
+https://en.wikipedia.org/wiki/Type_system
 
-	• https://en.wikipedia.org/wiki/Polymorphism_(computer_science)
+https://en.wikipedia.org/wiki/Polymorphism_(computer_science)
 
-	• https://realpython.com/python-protocol/
+https://realpython.com/python-protocol/
+
 
