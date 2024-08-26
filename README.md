@@ -101,3 +101,6 @@ https://en.wikipedia.org/wiki/Polymorphism_(computer_science)
 https://realpython.com/python-protocol/
 
 https://levelup.gitconnected.com/hidden-power-of-polymorphism-in-python-c9e2539c1633
+
+https://realpython.com/python-protocol/#:~:text=Since%20Python%203.8%2C%20the%20static,of%20a%20given%20structural%20type.&text=In%20this%20code%2C%20you%20define,Protocol%20.s
+
