@@ -99,4 +99,4 @@ References:
 	• https://en.wikipedia.org/wiki/Polymorphism_(computer_science)
 
 	• https://realpython.com/python-protocol/
-![image](https://github.com/user-attachments/assets/44fd9f83-2e79-4560-9983-15c173b0fc70)
+
