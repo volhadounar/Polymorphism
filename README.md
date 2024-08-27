@@ -32,7 +32,6 @@ Polymorphism, as related to genomics, refers to the presence of two or more vari
 
 
 Polymorphism allows to write a common code that acts on values of multiple types.
-Related entities can have similar behavior, they can use common code, also they can act slightly differently in some cases. Example: different vehicles move across the street, then turn  right, and each vehicle turns right differently: car, bus, van etc. This polymorphic behavior, vehicle accepts many ways to turn right.
 
 
 We can divide polymorphism into 2 groups:
