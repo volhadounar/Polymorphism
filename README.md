@@ -83,10 +83,10 @@ You just need to decide which methods and attributes a particular class has, and
 
 What it does? Not what is it? The focus is on actions.
 
-+: flexibility (use objects interchangably, do not depend on their types)
-Simplicity, easier prototyping
++: flexibility (use objects interchangably, do not depend on their types),
+simplicity (focus on behavior, easier prototyping)
 
--: potential runtime errors,  maintanance issues-Behavior changes in certain objects may impact other parts of the code, making it harder to maintain, reason about, and debug.
+-: potential runtime errors (unexpected behaviour),  maintanance issues-behavior changes in certain objects may impact other parts of the code, making it harder to maintain, reason about, and debug.
 
 
 Duck typing vs/with Type Hints
