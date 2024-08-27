@@ -56,13 +56,16 @@ Universal Polymorphism is about writing the code which is common for different a
 It can be achieved by generic programming, subtyping, virtual functions.
 
 Parametric polymorphism
+
 Can be achieved with generic programming. In languages with static type safety.
 We do not restrict the range of types that can be used in particular case of polymorphism.
 
 Subtyping
+
 Subtyping allows a function to be written to take an object of a certain type T, but also work correctly, if passed an object that belongs to a type S that is a subtype of T (according to the Liskov substitution principle).
 
 Row polymorphism
+
 Is a similar but distinct concept from subtyping, it deals with structural types.
 Structural type system is a class of type system in which type compatibility and equivalence are determined by the type's actual structure or definition and not by other characteristics such as its name or place of declaration.
 
