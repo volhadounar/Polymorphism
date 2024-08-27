@@ -1,7 +1,6 @@
 Prerequisites:
 
 	• Type system
-	• Nominal vs Structural type system
 	• Intro to Polymorphism
 	• Parametric polymorphism
 	• Subtyping polymorphism
@@ -11,7 +10,8 @@ Prerequisites:
 
 Type system
 
-Major categories of type system
+Major categories of type system:
+
 • Static vs. dynamic
 • Manifest vs. inferred
 • Nominal vs. structural
